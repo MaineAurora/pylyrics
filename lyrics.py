@@ -18,10 +18,6 @@ for i in b:
     if i not in chars:
         b.remove(i)
 
-a, b = "".join(a), "".join(b)
-if b == "the88":
-	b = "88"
-
 
 f = urllib.request.FancyURLopener({}).open("http://www.azlyrics.com/lyrics/{}/{}.html".format(b, a))
 
