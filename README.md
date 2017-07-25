@@ -4,8 +4,9 @@ A Python program which fetches lyrics to the current song being played on the MO
 
 # Installation 
 
-git clone https://github.com/MaineAurora/pylyrics
+```git clone https://github.com/MaineAurora/pylyrics
 mv pylyrics/lyrics.py ~/
+```
 
 # Usage
 
