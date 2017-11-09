@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 import string
 import urllib.request
 import subprocess
